@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </br>
 ![访客数量](https://komarev.com/ghpvc/?username=yagote&color=green)
 </br>
-![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote)
+![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
 
