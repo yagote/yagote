@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Java.
 </br>
 </br>
-![访客数量](https://komarev.com/ghpvc/?username=yagote&color=green)
+![访客数量](https://komarev.com/ghpvc/?username=yagote&color=orange)
+[![Java](https://img.shields.io/badge/Language-java-brightgreen)]()
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-blue)]()
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote) -->
 ![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
+
+
 
