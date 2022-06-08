@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![访客数量](https://komarev.com/ghpvc/?username=yagote&color=green)
 </br>
 ![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote)
 
 
