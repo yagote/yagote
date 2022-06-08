@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-blue)]()
 </br>
 
+![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote&layout=compact)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagote) -->
-![Yatote](https://github-readme-stats.vercel.app/api?username=yagote&show_icons=true)
-
 
 
